@@ -7,4 +7,9 @@ public class MyClass {
     //V3
     public String string3 = "BU da cok daha baska bir string";
 
+    //V4
+    public String string6 = "Biraz daha farkli bir string.";
+
+    //Techpro branch T3
+    public String string7 = "Bu biraz degisik bir string";
 }
