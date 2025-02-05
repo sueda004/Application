@@ -18,4 +18,9 @@ public class MyClass {
 
     //Biraz daha değişik yapalim
     public String string9 = "Sıperiz";
+    //Biraz daha bilgi
+    public String string10 = "2000 yil sonra";
+
+
+
 }
