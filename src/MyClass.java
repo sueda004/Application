@@ -4,4 +4,7 @@ public class MyClass {
     //V2
     public String string2 = "Bu da baska bir string";
 
+    //V3
+    public String string3 = "BU da cok daha baska bir string";
+
 }
